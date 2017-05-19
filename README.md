@@ -32,7 +32,6 @@ private void OnLoad()
 {
 	Load.ConfigLocation = "c:\users\<username>\desktop\config.conf";
 }
-
 This will allow you to store your file anywhere you need to.
 
 For an ASP.NET website, you can use the following:
