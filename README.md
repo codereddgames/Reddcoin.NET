@@ -27,7 +27,6 @@ nocommand=move,createrawtransaction,help
 
 In your main program, set the Load.ConfigLocation string to the path that has your config file in it.
 Example:
-
 using ReddCoinNet;
 private void OnLoad()
 {
